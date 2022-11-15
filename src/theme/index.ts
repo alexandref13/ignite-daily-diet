@@ -1,0 +1,33 @@
+export default {
+  COLORS: {
+    TEXT: '#FFFFFF',
+
+    SUCCESS_DARK: '#639339',
+    SUCCESS_MID: '#CBE4B4',
+    SUCCESS_LIGHT: '#E5F0DB',
+
+    ATTENTION_DARK: '#BF3B44',
+    ATTENTION_MID: '#F3BABD',
+    ATTENTION_LIGHT: '#F4E6E7',
+
+    BACKGROUND_700: '#FAFAFA',
+    BACKGROUND_600: '#EFF0F0',
+    BACKGROUND_500: '#DDDEDF',
+    BACKGROUND_400: '#B9BBBC',
+    BACKGROUND_300: '#5C6265',
+    BACKGROUND_200: '#333638',
+    BACKGROUND_100: '#1B1D1E',
+  },
+  FONT_FAMILY: {
+    REGULAR: 'NunitoSans_400Regular',
+    BOLD: 'NunitoSans_700Bold',
+  },
+  FONT_SIZE: {
+    SM: 12,
+    MD: 14,
+    LG: 16,
+    XL: 18,
+    XXL: 24,
+    XXXL: 32,
+  },
+};
